@@ -25,6 +25,7 @@ class Venta{
         $this->fecha = $fecha;
         $this->objCliente = $objCliente;
         $this->colMotos = $colMotos;
+        $this->precioFinal = 0;
     }
 
 
